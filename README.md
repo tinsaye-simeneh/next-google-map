@@ -1,1 +1,1 @@
-- React and google maps.
+- React/next.js and google maps.
