@@ -1,1 +1,1 @@
-- React/next.js and google maps.
+- React/next.js and google maps integration template
